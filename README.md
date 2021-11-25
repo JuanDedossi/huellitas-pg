@@ -27,7 +27,6 @@ Desarrollada por un equipo de 8 personas utilizando la metodologia agil SCRUM.
     + Passport
     + Mongooze
     + Socket.io
-    + WebSockets
     + Nodemail 
 
 - Database: 
