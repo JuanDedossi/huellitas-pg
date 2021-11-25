@@ -18,6 +18,7 @@ Desarrollada por un equipo de 8 personas utilizando la metodologia agil SCRUM.
     + React
     + Maretial UI
     + Redux
+    + Socket.io
 
 - Back End:
     + Javascript
